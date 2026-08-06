@@ -175,7 +175,20 @@ streamlit run app.py
 
 ---
 
+## 📄 Project Presentation
 
+You can find the full project presentation here:
+
+[View Project Presentation](https://drive.google.com/file/d/1yA-eoHkpuF0uBqEYX4sv_qcvRkYrn5b2/view?usp=sharing)
+
+
+## 👥 Team
+
+This project was developed by:
+
+- Eman Rashad (@emanrashad1912)
+- John fawzy (@johnfms)
+- Sarah Adel (@sara-adel-x)
 ## ⭐ If you found this project useful, don't forget to Star the repository!
 
 
