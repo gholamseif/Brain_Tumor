@@ -175,11 +175,6 @@ streamlit run app.py
 
 ---
 
-## 👥 Team
-
-Developed as a graduation/academic AI project by our team.
-
----
 
 ## ⭐ If you found this project useful, don't forget to Star the repository!
 
